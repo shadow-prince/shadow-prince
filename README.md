@@ -19,5 +19,5 @@ When I'm learning or I'm starting a new project, I begin with the *big picture*,
 ![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=FCC624)
 ![Heroku](https://img.shields.io/badge/-Heroku-111111?style=flat-square&logo=heroku) 
-
+![](https://komarev.com/ghpvc/?username=shadow-prince)
 ### Social:
