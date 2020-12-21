@@ -18,6 +18,7 @@ I begin with the *big picture* when I start new project, so I can return profess
 ![Git](https://img.shields.io/badge/-Git-111111?style=flat&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=FCC624)
 ![Heroku](https://img.shields.io/badge/-Heroku-111111?style=flat-square&logo=heroku) 
-![](https://komarev.com/ghpvc/?username=shadow-prince)
+<img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi"/>
 ### Stats:
 ![Kishore's github stats](https://github-readme-stats.vercel.app/api?username=shadow-prince&show_icons=true)
+![](https://komarev.com/ghpvc/?username=shadow-prince)
