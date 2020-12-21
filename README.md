@@ -14,12 +14,10 @@ I begin with the *big picture* when I start new project, so I can return profess
 ### Frameworks
 <img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/><a href="https://bulma.io">
-<img src="https://bulma.io/images/bulma.png" alt="Made Bulma" width="128" height="24">
-</a>
 <br>
+
 ### ML/DL
 <img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-![Keras](https://img.shields.io/badge/-Keras-333333?style=flat-square&logo=keras)
 <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
 <br>
 ![Sublime Text](https://img.shields.io/badge/-Sublime-111111?style=flat&logo=sublime-text)
