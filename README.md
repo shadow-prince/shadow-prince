@@ -1,4 +1,4 @@
-<img style="float: center;" src="Hi folks.png" width="900"></img>
+<img style="float: center;" src="Hi folks.png" width="1000"></img>
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm [Kishore](http://shadowprince.me/me)!
 I'm passionate about ***Kali tools***, ***Reverse Engineering***, ***Back-end***, ***Front-end*** and ***Applications Development***, as well as ***Machine Learning*** and ***Computer Vision***.
 I begin with the *big picture* when I a start new project, so I can return professional and elegantly results!
