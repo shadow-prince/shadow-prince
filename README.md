@@ -20,4 +20,5 @@ When I'm learning or I'm starting a new project, I begin with the *big picture*,
 ![Linux](https://img.shields.io/badge/-Linux-111111?style=flat&logo=linux&logoColor=FCC624)
 ![Heroku](https://img.shields.io/badge/-Heroku-111111?style=flat-square&logo=heroku) 
 ![](https://komarev.com/ghpvc/?username=shadow-prince)
-### Social:
+### Stats:
+![Kishire's github stats](https://github-readme-stats.vercel.app/api?username=shadow-prince&show_icons=true)
