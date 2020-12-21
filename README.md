@@ -10,6 +10,7 @@ I begin with the *big picture* when I start new project, so I can return profess
 ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=flat&logo=latex)
 <br>
+	<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat-square&logo=keras)
 <br>
