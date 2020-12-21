@@ -8,7 +8,6 @@ When I'm learning or I'm starting a new project, I begin with the *big picture*,
 ![C](https://img.shields.io/badge/-C-555555?style=flat&logo=c)
 ![SQL](https://img.shields.io/badge/-SQL-555555?style=flat&logo=mysql)
 ![HTML5](https://img.shields.io/badge/-HTML5-555555?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-555555?style=flat&logo=css3)
 ![LaTeX](https://img.shields.io/badge/-LaTeX-555555?style=flat&logo=latex)
 <br>
 ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
