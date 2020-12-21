@@ -11,7 +11,7 @@ I begin with the *big picture* when I start new project, so I can return profess
 <br>
 
 ### ML/DL
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/> <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <br>
 
 ### Tools & other . . .
@@ -22,3 +22,12 @@ I begin with the *big picture* when I start new project, so I can return profess
 ![Kishore's github stats](https://github-readme-stats.vercel.app/api?username=shadow-prince&show_icons=true)
 
 ![](https://komarev.com/ghpvc/?username=shadow-prince)
+
+### Social
+<a href="https://twitter.com/saikishorekicks">
+         <img src="https://img.shields.io/badge/saikishorekicks%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+      </a>
+
+<a href="https://www.hackerrank.com/shadowprince_kr1?hr_r=1">
+         <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+      </a>
