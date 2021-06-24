@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Kishore</h1>
 
 
-```json
+```ts
 var developements = {
     "Web Development" : {
         "Languages" : [ "HTML" ,"Java", "CSS", "JavaScript", "TypeScript" ] ,
@@ -27,6 +27,7 @@ var developements = {
  
 }
 ```
+----
 <div align=right>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadow-prince&langs_count=20&theme=default&layout=compact" />
