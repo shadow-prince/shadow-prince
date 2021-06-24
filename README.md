@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Sai Kishore</h1>
 
 
-```sh
+```json
 var developements = {
     "Web Development" : {
-        "Languages" : [ "HTML" , "CSS", "JavaScript", "TypeScript" ] ,
-        "Frameworks" : [ "Node.js", "Express.js",
+        "Languages" : [ "HTML" ,"Java", "CSS", "JavaScript", "TypeScript" ] ,
+        "Frameworks" : [ "Node.js", "Express.js", "Django"
                         "MySQL", "React", "Angular", "Bootstrap" ]
-    }
+    },
     "Native App Development" : {
         "Languages" : ["HTML", "JAVA", "TypeScript", "SCSS" ] ,
         "Frameworks & Tools" : ["Angular", "Ionic", "FireBase"]
-    }
+    },
     "Desktop App Development" : {
         "Languages" : ["Python", "nodeJS"] ,
         "Libraries" : ["Electron Js"]
-    }
+    },
     "Machine Learning" : {
         "Languages" : ["Python"] ,
         "Libraries" : ["Numpy", "Pandas", "Matplotlib", "Sklearn", "OpenCV" ]
-    }
+    },
     "Ethical Hacking" : {
         "Languages" : ["Python"] ,
         "System" : ["Kali Linux"]
