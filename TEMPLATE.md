@@ -8,6 +8,8 @@
 
 <details>
   <summary>Wanna Know More?</summary>
+  <br>
+
  Account age: **{{ ACCOUNT_AGE }}** years
 
 Pushed **{{ COMMITS }}** commits
