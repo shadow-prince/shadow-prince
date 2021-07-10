@@ -38,7 +38,7 @@ jobs:
         uses: actions-js/profile-readme@v1
         with:
         # Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}
-           github_token: $\{{ secrets.GH_TOKEN }}
+           github_token: ${{ secrets.GH_TOKEN }}
         # Github profile username
            username: 'shadow-prince'
         # TEMPLATE.md file path
