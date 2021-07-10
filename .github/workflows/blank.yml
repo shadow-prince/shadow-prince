@@ -7,14 +7,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Update GitHub Profile README
-      uses: theboi/github-update-readme@main
-      env:
-        GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+    - name: Profile Readme Stats
+      uses: teoxoy/profile-readme-stats@v1.2
       with:
-        header: "Hey, I'm Sai Kishore! 👋"
-        subhead:   ."
-        footer: "**Learn more **"
-        ref: "main"
-        excludeActivity: '["WatchEvent"]'
-        excludeRepo: '["theboi/theboi"]'
+    # Personal access token with `read:user` scope and optional `repo` scope
+         token: ${{ secrets.GH_TOKEN }}
+      
+      
