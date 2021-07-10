@@ -35,18 +35,3 @@ jobs:
         git commit -m "Update README"
         git push
         fi
-  gadpp_job:
-    runs-on: ubuntu-latest
-    name: Update GitHub Profile Page
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: GADPP
-        uses: umutphp/github-action-dynamic-profile-page@v2
-        id: gadpp
-        env:
-          API_TOKEN_GITHUB: ${{ secrets.GH_TOKEN }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        with:
-          github-username: 'shadow-prince'
-          user-email: shadowprince.krish007@gmail.com'
