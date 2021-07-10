@@ -6,6 +6,16 @@ on:
       - master
       - main
 jobs:
+  gadpp_job:
+    runs-on: ubuntu-latest
+    name: Update GitHub Profile Page
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: GADPP
+        uses: umutphp/github-action-dynamic-profile-page@v2
+        id: gadpp
+        env:
   publish:
     runs-on: ubuntu-latest
     steps:
