@@ -31,3 +31,5 @@ Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
 {{ LANGUAGE_TEMPLATE_END }}
 
 </details>
+
+<!--START_SECTION:activity-->
