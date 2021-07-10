@@ -12,7 +12,7 @@
 
  Account age: **1** years
 
-Pushed **834** commits
+Pushed **835** commits
 
 Opened **2** issues
 
@@ -37,4 +37,14 @@ Contributed to **5** public repositories
 
 </details>
 
-<!--START_SECTION:activity-->
+
+#### 👷 Check out what I'm currently working on
+{{range recentContributions 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+{{- end}}
+
+#### 🌱 My latest projects
+{{range recentRepos 10}}
+- [{{.Name}}]({{.URL}}) - {{.Description}}
+{{- end}}
+
