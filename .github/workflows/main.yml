@@ -1,24 +1,26 @@
-name: 'Profile Readme Stats'
-description: 'Showcase your github stats on your profile README.md'
-inputs:
-  token:GH_TOKEN
-    description: 'Personal access token with `read:user` scope and optional `repo` scope'
-    required: true
-  template:  ./TEMPLATE.md
-    description: 'Path to template file'
-    required: true
-    default: './TEMPLATE.md'
-  readme: ./README.md
-    description: 'Path to generated file'
-    required: true
-    default: './README.md'
-  includeForks:
-    description: 'Include forked repositories when calculating the stats'
-    required: false
-    default: false
-runs:
-  using: 'node12'
-  main: 'dist/index.js'
-branding:
-  icon: 'align-justify'
-  color: 'blue'
+name: 'build-test'
+on: # rebuild any PRs and main branch changes
+  pull_request:
+  push:
+    branches:
+      - master
+      - 'releases/*'
+
+jobs:
+  build: # make sure build/ci work properly
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: |
+          yarn
+          yarn ci
+  test: # make sure the action works on a clean machine without building
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - uses: ./
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          readme: './README.md'
