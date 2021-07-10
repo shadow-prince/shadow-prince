@@ -1,6 +1,6 @@
 # Hi I'm Sai Kishore!
 
-## Stats
+**Stats**
 
 Account age: **{{ ACCOUNT_AGE }}** years
 
@@ -9,8 +9,6 @@ Pushed **{{ COMMITS }}** commits
 Opened **{{ ISSUES }}** issues
 
 Submitted **{{ PULL_REQUESTS }}** pull requests
-
-Reviewed **{{ CODE_REVIEWS }}** pull requests
 
 Received **{{ STARS }}** stars
 
