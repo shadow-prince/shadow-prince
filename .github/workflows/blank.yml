@@ -12,5 +12,6 @@ jobs:
       with:
     # Personal access token with `read:user` scope and optional `repo` scope
          token: ${{ secrets.GH_TOKEN }}
-      
+         readme: README.md
+         template: TEMPLATE.md
       
