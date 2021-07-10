@@ -17,7 +17,7 @@ Own **{{ REPOSITORIES }}** repositories
 Contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories
 
 Top 8 most used languages across your repositories:
-?style=for-the-badge&logo=Java
+
 {{ LANGUAGE_TEMPLATE_START }}
 ![{{LANGUAGE_NAME}}](https://img.shields.io/badge/{{LANGUAGE_NAME:uri}}-{{LANGUAGE_PERCENT:uri}}%25-{{LANGUAGE_COLOR:uri}}?style=for-the-badge&logo={{LANGUAGE_NAME:uri}})
 {{ LANGUAGE_TEMPLATE_END }}
