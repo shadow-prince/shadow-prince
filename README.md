@@ -3,7 +3,7 @@
 
 Account age: **1** years
 
-Pushed **824** commits
+Pushed **825** commits
 
 Opened **2** issues
 
@@ -33,3 +33,6 @@ Contributed to **5** public repositories
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadow-prince&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shadow-prince&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shadow-prince&theme=default)
+
+
+<!-- START gadpp -->
