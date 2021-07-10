@@ -1,9 +1,16 @@
 # Hi I'm Sai Kishore!
------
 
-Account age: **1** years
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadow-prince&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shadow-prince&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadow-prince&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shadow-prince&theme=default)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shadow-prince&theme=default)
 
-Pushed **828** commits
+<details>
+  <summary>Wanna Know More?</summary>
+ Account age: **1** years
+
+Pushed **829** commits
 
 Opened **2** issues
 
@@ -26,13 +33,4 @@ Contributed to **5** public repositories
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0.8%25-%23DA5B0B?style=for-the-badge&logo=Jupyter%20Notebook)
 ![Other](https://img.shields.io/badge/Other-0.9%25-%23ededed?style=for-the-badge&logo=Other)
 
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadow-prince&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shadow-prince&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadow-prince&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shadow-prince&theme=default)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shadow-prince&theme=default)
-
-
-<!-- START gadpp -->
+</details>
