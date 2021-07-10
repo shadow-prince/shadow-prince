@@ -4,7 +4,7 @@
 
 Account age: **1** years
 
-Pushed **820** commits
+Pushed **821** commits
 
 Opened **2** issues
 
@@ -16,7 +16,7 @@ Own **67** repositories
 
 Contributed to **5** public repositories
 
-Top 8 most used languages across your repositories:
+**Top 8 most used languages across your repositories:**
 
 ![HTML](https://img.shields.io/badge/HTML-33%25-%23e34c26?style=for-the-badge&logo=HTML)
 ![CSS](https://img.shields.io/badge/CSS-18.3%25-%23563d7c?style=for-the-badge&logo=CSS)
@@ -27,7 +27,7 @@ Top 8 most used languages across your repositories:
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0.8%25-%23DA5B0B?style=for-the-badge&logo=Jupyter%20Notebook)
 ![Other](https://img.shields.io/badge/Other-0.9%25-%23ededed?style=for-the-badge&logo=Other)
 
-Top 4 most used languages across your repositories:
+**Top 4 most used languages across your repositories:**
 
 ![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B133%25)
 ![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B118.3%25)
