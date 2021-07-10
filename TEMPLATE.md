@@ -6,6 +6,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shadow-prince&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shadow-prince&theme=default)
 
+**Github Steaks**
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shadow-prince&theme=vue)](https://git.io/streak-stats)
+
+
 <details>
   <summary>Wanna Know More?</summary>
   <br>
