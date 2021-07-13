@@ -1,5 +1,21 @@
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&color=000000&lines=Hi!+I'm+Sai+Kishore;I+Code...;I+Draw...;I+Write" /></div>
-  
+
+**🌐 Website** : [shadow-prince.github.io](https://shadow-prince.github.io/)
+
+**📝 CV** : [shadowprince.vercel.app](https://shadowprince.vercel.app/)
+
+**🎭 My VSCode Theme** : [Krish Color Theme](https://marketplace.visualstudio.com/items?itemName=SaiKishore.krish-color-theme)
+
+
+## Projects
+
+**📲 React Chat With Socket.io** : [Frontend](https://github.com/shadow-prince/chat-forntend) [Backend](https://github.com/shadow-prince/chat-backend)
+
+**🎮 Game** : **[Tic Tac Toe](https://github.com/shadow-prince/REACT-GAMES)** live Demo **[here](https://react-games-fun.vercel.app/)**
+
+**✏ Notes App** : **Tasker App** Live Demo **[here](https://task-manager-react.vercel.app/)**
+
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadow-prince&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shadow-prince&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadow-prince&theme=default)
