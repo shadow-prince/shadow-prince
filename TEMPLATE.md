@@ -29,7 +29,7 @@
 
 **Github Steaks**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shadow-prince&theme=vue)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadow-prince&theme=vue)](https://git.io/streak-stats)
 
 
 <details>
