@@ -12,6 +12,7 @@
 
 
 
+
 **Projects**
 
 **📲 React Chat With Socket.io** : [Frontend](https://github.com/shadow-prince/chat-forntend) [Backend](https://github.com/shadow-prince/chat-backend)
@@ -20,7 +21,8 @@
 
 **✏ Notes App** : **Tasker App** Live Demo **[here](https://task-manager-react.vercel.app/)**
 
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8m5waq8tt3jdaxl90qf7ncxrm&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=8m5waq8tt3jdaxl90qf7ncxrm&redirect=true)
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadow-prince&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shadow-prince&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadow-prince&theme=default)
@@ -38,7 +40,7 @@
 
  Account age: **1** years
 
-Pushed **935** commits
+Pushed **936** commits
 
 Opened **2** issues
 
