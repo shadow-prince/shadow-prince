@@ -29,6 +29,8 @@
 
 **Github Steaks**
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shadow-prince&theme=vue)](https://git.io/streak-stats)
+
 
 <details>
   <summary>Wanna Know More?</summary>
@@ -36,7 +38,7 @@
 
  Account age: **1** years
 
-Pushed **933** commits
+Pushed **934** commits
 
 Opened **2** issues
 
