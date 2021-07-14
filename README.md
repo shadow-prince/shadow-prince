@@ -1,5 +1,9 @@
+<div align="center"> 
+
+
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&color=000000&lines=Hi!+I'm+Sai+Kishore;I+Code...;I+Draw...;I+Write" /></div>
 
+  
 **🌐 Website** : [shadow-prince.github.io](https://shadow-prince.github.io/)
 
 **📝 CV** : [shadowprince.vercel.app](https://shadowprince.vercel.app/)
@@ -7,7 +11,8 @@
 **🎭 My VSCode Theme** : [Krish Color Theme](https://marketplace.visualstudio.com/items?itemName=SaiKishore.krish-color-theme)
 
 
-## Projects
+
+**Projects**
 
 **📲 React Chat With Socket.io** : [Frontend](https://github.com/shadow-prince/chat-forntend) [Backend](https://github.com/shadow-prince/chat-backend)
 
@@ -33,15 +38,15 @@
 
  Account age: **1** years
 
-Pushed **874** commits
+Pushed **933** commits
 
 Opened **2** issues
 
-Submitted **6** pull requests
+Submitted **7** pull requests
 
 Received **18** stars
 
-Own **70** repositories
+Own **71** repositories
 
 Contributed to **5** public repositories
 
@@ -66,3 +71,4 @@ Contributed to **5** public repositories
 </details>
 
 
+</div>
