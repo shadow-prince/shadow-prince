@@ -1,4 +1,6 @@
 <div align="center"> 
+  
+  
 
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&color=000000&lines=Hi!+I'm+Sai+Kishore;I+Code...;I+Draw...;I+Write" /></div>
@@ -37,10 +39,12 @@
 <details>
   <summary>Wanna Know More?</summary>
   <br>
+  
+![GitHub metrics](https://metrics.lecoq.io/shadow-prince)  
 
  Account age: **1** years
 
-Pushed **1861** commits
+Pushed **1862** commits
 
 Opened **2** issues
 
