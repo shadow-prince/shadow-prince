@@ -1,11 +1,11 @@
 <div align="center"> 
   
+ # Hi! I'm Sai Kishore
   
+  <details>  
+    <summary>About Me</summary>
+    <br>
 
-
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&color=000000&lines=Hi!+I'm+Sai+Kishore;I+Code...;I+Draw...;I+Write" /></div>
-
-  
 **🌐 Website** : [shadow-prince.github.io](https://shadow-prince.github.io/)
 
 **📝 CV** : [shadowprince.vercel.app](https://shadowprince.vercel.app/)
@@ -23,8 +23,21 @@
 
 **✏ Notes App** : **Tasker App** Live Demo **[here](https://task-manager-react.vercel.app/)**
 
+    
+  </details>
+
+  
+
+  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8m5waq8tt3jdaxl90qf7ncxrm&cover_image=true&theme=default)](https://open.spotify.com/user/8m5waq8tt3jdaxl90qf7ncxrm)
   
+  
+  
+  <details>  
+    <summary>Stats</summary>
+    
+    
+        
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shadow-prince&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shadow-prince&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shadow-prince&theme=default)
@@ -35,16 +48,17 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shadow-prince&theme=vue)](https://git.io/streak-stats)
 
+  </details>
+
 
 <details>
   <summary>Wanna Know More?</summary>
   <br>
   
-![GitHub metrics](https://metrics.lecoq.io/shadow-prince)  
 
  Account age: **1** years
 
-Pushed **1862** commits
+Pushed **1863** commits
 
 Opened **2** issues
 
