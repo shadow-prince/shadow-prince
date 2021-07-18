@@ -27,8 +27,6 @@
   </details>
 
   
-
-  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8m5waq8tt3jdaxl90qf7ncxrm&cover_image=true&theme=default)](https://open.spotify.com/user/8m5waq8tt3jdaxl90qf7ncxrm)
   
   
@@ -58,7 +56,7 @@
 
  Account age: **1** years
 
-Pushed **1868** commits
+Pushed **1869** commits
 
 Opened **2** issues
 
