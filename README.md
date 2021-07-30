@@ -62,7 +62,7 @@
 
  Account age: **1** years
 
-Pushed **1923** commits
+Pushed **1920** commits
 
 Opened **2** issues
 
@@ -70,7 +70,7 @@ Submitted **11** pull requests
 
 Received **24** stars
 
-Own **75** repositories
+Own **74** repositories
 
 Contributed to **7** public repositories
 
@@ -80,7 +80,7 @@ Contributed to **7** public repositories
 ![TypeScript](https://img.shields.io/badge/TypeScript-19.4%25-%232b7489?style=for-the-badge&logo=TypeScript)
 ![CSS](https://img.shields.io/badge/CSS-17.6%25-%23563d7c?style=for-the-badge&logo=CSS)
 ![Java](https://img.shields.io/badge/Java-16.1%25-%23b07219?style=for-the-badge&logo=Java)
-![JavaScript](https://img.shields.io/badge/JavaScript-11%25-%23f1e05a?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/JavaScript-10.9%25-%23f1e05a?style=for-the-badge&logo=JavaScript)
 ![Python](https://img.shields.io/badge/Python-1.7%25-%233572A5?style=for-the-badge&logo=Python)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0.8%25-%23DA5B0B?style=for-the-badge&logo=Jupyter%20Notebook)
 ![Other](https://img.shields.io/badge/Other-0.9%25-%23ededed?style=for-the-badge&logo=Other)
