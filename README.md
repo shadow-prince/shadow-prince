@@ -59,24 +59,24 @@
 
  Account age: **1** years
 
-Pushed **1931** commits
+Pushed **1934** commits
 
 Opened **2** issues
 
 Submitted **12** pull requests
 
-Received **24** stars
+Received **25** stars
 
-Own **78** repositories
+Own **79** repositories
 
 Contributed to **7** public repositories
 
 **Top 8 most used languages across my repositories:**
 
-![HTML](https://img.shields.io/badge/HTML-32.1%25-%23e34c26?style=for-the-badge&logo=HTML)
-![TypeScript](https://img.shields.io/badge/TypeScript-19%25-%232b7489?style=for-the-badge&logo=TypeScript)
+![HTML](https://img.shields.io/badge/HTML-32%25-%23e34c26?style=for-the-badge&logo=HTML)
+![TypeScript](https://img.shields.io/badge/TypeScript-18.9%25-%232b7489?style=for-the-badge&logo=TypeScript)
 ![CSS](https://img.shields.io/badge/CSS-17.7%25-%23563d7c?style=for-the-badge&logo=CSS)
-![Java](https://img.shields.io/badge/Java-15.8%25-%23b07219?style=for-the-badge&logo=Java)
+![Java](https://img.shields.io/badge/Java-15.7%25-%23b07219?style=for-the-badge&logo=Java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-11.4%25-%23f1e05a?style=for-the-badge&logo=JavaScript)
 ![Python](https://img.shields.io/badge/Python-1.7%25-%233572A5?style=for-the-badge&logo=Python)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-0.7%25-%23DA5B0B?style=for-the-badge&logo=Jupyter%20Notebook)
